@@ -1,4 +1,4 @@
-# Python System Monitor CLI
+# Python System Monitor
 
 Monitor interactivo de recursos del sistema en tiempo real para la terminal, desarrollado en Python con una arquitectura modular. Utiliza `psutil` para consultar métricas de hardware y procesos activos, y `rich` para renderizar una interfaz visual dinámica en consola.
 
