@@ -36,10 +36,6 @@ python-system-monitor/
 - **Monitoreo de memoria RAM:** Muestra información sobre el consumo y la disponibilidad de memoria.
 - **Monitoreo de almacenamiento:** Permite consultar información sobre el espacio utilizado y disponible en disco.
 - **Monitor de procesos:** Identifica los cinco procesos con mayor consumo de memoria RAM.
-- **Interfaz dinámica:** Presenta las métricas mediante paneles y tablas estilizadas con `rich`.
-- **Actualización en tiempo real:** Actualiza periódicamente la información sin necesidad de reiniciar la aplicación.
-- **Arquitectura modular:** Separa la obtención de datos, la presentación visual y la lógica principal.
-- **Ejecución desde la terminal:** Permite iniciar la aplicación mediante el sistema de módulos de Python.
 
 ## Requisitos previos
 
