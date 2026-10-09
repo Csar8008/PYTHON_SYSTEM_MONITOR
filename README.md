@@ -54,14 +54,14 @@ Clona el repositorio desde GitHub y accede al directorio del proyecto.
 
 ```bash
 git clone https://github.com/tu-usuario/python-system-monitor.git
-cd python-system-monitor
+cd python_system_monitor
 ```
 
 Reemplaza `tu-usuario` por el nombre de tu cuenta de GitHub.
 
 ### 2. Instalar las dependencias
 
-- ejecuta:
+- una vez estes en la carpeta raiz, ejecuta:
 
 ```bash
 python -m pip install -r requirements.txt
@@ -94,4 +94,4 @@ Para finalizar la ejecución, utiliza `Ctrl+C` en la terminal.
 
 ---
 
-Desarrollado como un proyecto de Python enfocado en el monitoreo de recursos del sistema, la programación modular y la creación de interfaces interactivas en consola.
+Desarrollado como un proyecto de Python enfocado en el monitoreo de recursos del sistema y la creación de interfaces interactivas en consola.
